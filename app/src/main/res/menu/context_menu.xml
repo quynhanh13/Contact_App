@@ -1,0 +1,12 @@
+<!-- context_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_call"
+        android:title="Gọi điện" />
+    <item
+        android:id="@+id/menu_sms"
+        android:title="Nhắn tin SMS" />
+    <item
+        android:id="@+id/menu_email"
+        android:title="Gửi Email" />
+</menu>
